@@ -1094,7 +1094,6 @@ PRODUCT_PACKAGES += \
     TimeService \
     datastatusnotification \
     QtiTetherService \
-    com.qualcomm.location \
     embms \
     colorservice \
     ims \
